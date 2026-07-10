@@ -98,10 +98,3 @@ The primary goal of this project is to design a user-friendly, automated dashboa
 
 ## 📝 Conclusion
 This project highlights Excel's power in creating dynamic and insightful dashboards for financial analysis. Automation in data processing and visualization offers real-time insights, aiding banks in making data-driven decisions about their loan portfolios.
-
-
-### 💡 *"Every challenge is an opportunity to grow. Keep pushing your boundaries."*
-
----
-
-### 🚀 Project Development by Bhushan Gawali
