@@ -1,4 +1,4 @@
-# 🏦 Bank Loan Report Dashboard
+# 🏦 Bank Loan Report Excel Dashboard
 
 
 ## 📊 Project Overview
